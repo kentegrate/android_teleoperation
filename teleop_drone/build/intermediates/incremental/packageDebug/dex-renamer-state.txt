@@ -1,0 +1,7 @@
+#Wed Dec 14 09:29:32 JST 2016
+base.0=/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e8c73a84ed4e1b35c8ab60cf4211a0a2c1fddf7c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_12eafab257771ba52d1985b39c719d457ae39600/classes.dex
+base.1=/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_12eafab257771ba52d1985b39c719d457ae39600
+file.0=/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e8c73a84ed4e1b35c8ab60cf4211a0a2c1fddf7c/classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

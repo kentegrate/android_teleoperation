@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="14647362929423"
+    token="9211562120959068704"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="1772350711121"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/outputs/apk/teleop_drone-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="14581646384358"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="14647362929423"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/ken/Workspaces/teleop_ws/src/teleop_drone/teleop_drone/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
